@@ -1,4 +1,10 @@
 1.add
 2. delete
 3. edit
+<<<<<<< Updated upstream
 4. create
+=======
+4. destroy
+
+4. create
+>>>>>>> Stashed changes
