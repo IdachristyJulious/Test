@@ -11,4 +11,8 @@ MY TO-DO LIST
 9. Practice chess openings.
 10. Solve chess puzzles.
 11. Check exam schedule.
+<<<<<<< HEAD
 12. Find
+=======
+13. Save
+>>>>>>> 0bc0d09bef59f666a437e502e63215ae8337b9de
