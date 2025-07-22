@@ -10,4 +10,8 @@ MY TO-DO LIST
 8. Complete internship task.
 9. Practice chess openings.
 10. Solve chess puzzles.
+<<<<<<< HEAD
 12. File added
+=======
+11. Delete
+>>>>>>> 5cdafdb1f1e472fa789fb0b81e51cf4270965ed4
